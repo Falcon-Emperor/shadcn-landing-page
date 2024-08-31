@@ -156,10 +156,10 @@ export const Footer = () => {
           <a
             rel="noreferrer noopener"
             target="_blank"
-            href="https://www.linkedin.com/in/leopoldo-miranda/"
+            href="https://www.linkedin.com/in/usman-nasim-8619b1249/"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            Leo Miranda
+            Usman Nasim
           </a>
         </h3>
       </section>
